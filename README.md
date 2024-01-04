@@ -30,8 +30,10 @@ Step5:
 
 Execute the Open_Loop_control
 ```
+```
 Developed by : saranya s
 register number: 23013399
+```
 ## Program
 ```
 from robomaster import robot
@@ -110,7 +112,7 @@ https://youtube.com/shorts/fH1QrrpZba4?feature=share
 Thus the python program code is developed to move the mobilerobot in the predefined path.
 
 
-
+```
 Mobile Robotics Laboratory
 Department of Artificial Intelligence and Data Science/ Machine Learning
 Saveetha Engineering College
